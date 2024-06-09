@@ -107,7 +107,7 @@ nav ul li a:hover {
     display: flex;
   }
   nav ul {
-    position: absolute;
+    position: fixed;
     right: 0;
     top: 0;
     width: 50%;
