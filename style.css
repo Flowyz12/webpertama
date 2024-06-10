@@ -28,7 +28,7 @@ nav h4 {
 }
 
 nav .logo {
-  font-family: "DM Serif Text", serif;
+  font-family: "Times New Roman";
 }
 
 nav ul {
@@ -190,4 +190,7 @@ header img {
   font-size: 15px;
   margin: 0 0 0 40px;
 }
- 
+footer {
+  text-align: center;
+  font-size: 10px;
+} 
